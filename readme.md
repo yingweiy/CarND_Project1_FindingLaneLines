@@ -78,5 +78,6 @@ Here are a few items that I can think of to improve at current point:
     * Horizon line detection
     * Top x1, x2 detection
 * Image normalization (maybe using HSV space?)
+* Under different weather or light condition, such as in night time
 * Line stabilizer between frames
 * Better validation of recognized lines. For example, check the width changes across frames.
